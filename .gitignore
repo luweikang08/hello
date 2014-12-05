@@ -1,0 +1,13 @@
+*.ncb
+*.sln
+*.suo
+*.html
+*.exe
+*.obj
+*.manifest
+*.res
+*.pch
+*.dep
+*.idb
+*.pdb
+debug/
